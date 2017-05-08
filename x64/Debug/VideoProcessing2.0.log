@@ -1,0 +1,28 @@
+﻿  tracking.cpp
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\videoprocessor.h(331): warning C4267: 'return': conversion from 'size_t' to 'long', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\videoprocessor.h(333): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(166): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(167): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(168): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(170): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(280): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(282): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(284): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(286): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(290): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(292): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(293): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(314): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(435): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(437): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(439): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(441): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(447): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(449): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(450): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(464): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(563): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\featuretracker.h(567): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\danio\documents\visual studio 2015\projects\3_16_houghtransform tracking\tracking.cpp(31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  VideoProcessing2.0.vcxproj -> C:\Users\danio\Documents\Visual Studio 2015\Projects\3_16_HoughTransform tracking\x64\Debug\VideoProcessing2.0.exe
+  VideoProcessing2.0.vcxproj -> C:\Users\danio\Documents\Visual Studio 2015\Projects\3_16_HoughTransform tracking\x64\Debug\VideoProcessing2.0.pdb (Partial PDB)
